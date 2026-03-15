@@ -60,7 +60,7 @@ fun TransactionItem(transaction: Transaction) {
 
             Text(
                 text = "$${transaction.amount}",
-                fontSize = 16.sp
+                fontSize = 17.sp
             )
 
             Text(
