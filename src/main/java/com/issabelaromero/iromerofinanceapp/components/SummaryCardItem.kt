@@ -40,7 +40,7 @@ fun SummaryCardItem(card: SummaryCard) {
 
             Text(
                 text = "$${card.amount}",
-                fontSize = 20.sp
+                fontSize = 23.sp
             )
 
         }
